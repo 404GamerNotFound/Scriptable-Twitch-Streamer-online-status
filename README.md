@@ -53,3 +53,8 @@ If you have any questions or suggestions, please contact us.
 ## Acknowledgments
 
 Thanks to Twitch for providing the API and Scriptable for enabling iOS automation.
+
+
+## Donation
+
+ [PayPal Donation](https://www.paypal.com/paypalme/TonyBrueser)
